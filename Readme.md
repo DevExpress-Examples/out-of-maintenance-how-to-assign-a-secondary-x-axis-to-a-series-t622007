@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/SecondaryAxesXSample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/SecondaryAxesXSample/MainWindow.xaml))**
+* [ChartModel.cs](./CS/SecondaryAxesXSample/Model/ChartModel.cs) (VB: [ChartModel.vb](./VB/SecondaryAxesXSample/Model/ChartModel.vb))
+* [SalesPerson.cs](./CS/SecondaryAxesXSample/Model/SalesPerson.cs) (VB: [SalesPerson.vb](./VB/SecondaryAxesXSample/Model/SalesPerson.vb))
+<!-- default file list end -->
 #  How to: assign a secondary X-axis to a series
 
 
